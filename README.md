@@ -1,2 +1,2 @@
 # workshop-api-testing-js
-A repo created for the third homework of Perficient Praxis UNAL 2021
+This is a Workshop about Api Testing in JavaScript
