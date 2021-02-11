@@ -1,4 +1,3 @@
-// Commit: Add Query Parameters
 const agent = require('superagent');
 const { expect } = require('chai');
 

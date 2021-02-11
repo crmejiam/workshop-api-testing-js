@@ -1,4 +1,3 @@
-// Commit: Consuming a DELETE and an non-existent resource
 const agent = require('superagent');
 const chai = require('chai');
 const statusCode = require('http-status-codes');

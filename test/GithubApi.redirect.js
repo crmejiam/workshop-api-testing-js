@@ -1,4 +1,3 @@
-// Commit: Consuming HEAD and redirectioning requests
 const agent = require('superagent');
 const chai = require('chai');
 const statusCode = require('http-status-codes');
